@@ -1,28 +1,29 @@
 # Awesome Minitool
 
-[![tools](https://img.shields.io/badge/tools-604-blue)](https://minitool.io/) [![license](https://img.shields.io/badge/license-free-green)](https://minitool.io/) [![updated](https://img.shields.io/badge/updated-daily-orange)](https://minitool.io/)
+[![tools](https://img.shields.io/badge/tools-643-blue)](https://minitool.io/) [![license](https://img.shields.io/badge/license-free-green)](https://minitool.io/) [![updated](https://img.shields.io/badge/updated-weekly-orange)](https://minitool.io/)
 
-> A curated catalog of **604 free online tools** — text utilities,
-> developer tools, and calculators. Every single one runs entirely in
-> your browser: no signup, no uploads, no tracking, works offline.
->
-> New tools ship **every day**. This list regenerates automatically.
+> A curated catalog of **643 free online tools** — text utilities,
+> developer tools, and calculators. Tools run in your browser and your
+> input isn't uploaded. No signup required.
 
-🔗 **Site:** [https://minitool.io/](https://minitool.io/)
+🔗 **Site:** [https://minitool.io/](https://minitool.io/) · **Blog:** [https://minitool.io/blog/](https://minitool.io/blog/)
 
 ## Contents
 
-- [Text & Writing Tools](#text--writing-tools) (185)
-- [Developer Tools](#developer-tools) (235)
-- [Calculators & Converters](#calculators--converters) (184)
+- [Text & Writing Tools](#text--writing-tools) (195)
+- [Developer Tools](#developer-tools) (251)
+- [Calculators & Converters](#calculators--converters) (197)
 
 ## Text & Writing Tools
 
 | Tool | What it does |
 |------|--------------|
+| [A1Z26 Cipher](https://minitool.io/tools/a1z26-cipher) | Encode text as A=1 to Z=26 numbers and decode it back. |
 | [Acronym Generator](https://minitool.io/tools/acronym-generator) | Turn any phrase into an acronym with custom separators. |
 | [Acrostic Poem Generator](https://minitool.io/tools/acrostic-poem-generator) | Generate acrostic poems from any word, then edit each line. |
 | [Add Line Numbers](https://minitool.io/tools/add-line-numbers) | Add sequential numbers to every line of your text. |
+| [ADFGX Cipher](https://minitool.io/tools/adfgx-cipher) | Encrypt and decrypt with the WWI ADFGX fractionating cipher. |
+| [Adverb Finder](https://minitool.io/tools/adverb-finder) | Highlight adverbs in your writing and count each one. |
 | [Affine Cipher](https://minitool.io/tools/affine-cipher) | Encrypt and decrypt text with the affine cipher. |
 | [Alliteration Generator](https://minitool.io/tools/alliteration-generator) | Seeded alliteration phrases from a 26-letter word bank. |
 | [Anagram Checker](https://minitool.io/tools/anagram-checker) | Check if two words or phrases are anagrams of each other. |
@@ -45,6 +46,7 @@
 | [Codon Translator](https://minitool.io/tools/codon-translator) | Translate DNA or RNA into protein in any reading frame. |
 | [Column Extractor](https://minitool.io/tools/column-extractor) | Extract chosen columns from delimited text as CSV or lines. |
 | [Columnar Transposition Cipher](https://minitool.io/tools/columnar-transposition-cipher) | Encrypt text by reading columns in a keyword order. |
+| [Contraction Expander](https://minitool.io/tools/contraction-expander) | Expand English contractions into their full formal forms. |
 | [CSV Deduplicate](https://minitool.io/tools/csv-deduplicate) | Remove duplicate rows from CSV by any column combination. |
 | [CSV to HTML Table](https://minitool.io/tools/csv-to-html-table) | Convert CSV data into a ready-to-paste HTML table. |
 | [CSV to List](https://minitool.io/tools/csv-to-list) | Turn CSV rows into bullet, numbered or plain lists. |
@@ -52,16 +54,21 @@
 | [Duplicate Line Remover](https://minitool.io/tools/duplicate-line-remover) | Remove duplicate lines from lists with sorting and trimming. |
 | [Email Domain Extractor](https://minitool.io/tools/email-domain-extractor) | Pull every domain out of an email list with counts. |
 | [Email Extractor](https://minitool.io/tools/email-extractor) | Pull every email address out of any block of text, cleanly. |
+| [Emoji Letter Converter](https://minitool.io/tools/emoji-letter-converter) | Letters to emoji regional indicators, digits to keycaps. |
+| [Emoji Remover](https://minitool.io/tools/strip-emojis) | Remove emoji characters from any text. |
 | [Emoji Shortcode Converter](https://minitool.io/tools/emoji-shortcode-converter) | Convert :shortcode: tokens and emoji, in either direction. |
 | [Enigma Simulator](https://minitool.io/tools/enigma-simulator) | WWII Enigma I simulator with rotors, rings, plugboard. |
 | [Fancy Text Generator](https://minitool.io/tools/fancy-text-generator) | Turn plain text into stylish Unicode fonts and symbols. |
 | [Fantasy Name Generator](https://minitool.io/tools/fantasy-name-generator) | Generate fantasy character names for five classic races. |
 | [Find and Replace](https://minitool.io/tools/find-and-replace) | Search and replace text with regex support and live preview. |
 | [First Letter Extractor](https://minitool.io/tools/first-letter-extractor) | Build acronyms from the first letter of every line or word. |
+| [Flag Semaphore Cipher](https://minitool.io/tools/semaphore-cipher) | Convert text to flag semaphore positions and back. |
+| [German Umlaut Converter](https://minitool.io/tools/german-umlaut-converter) | Convert German text between ASCII forms and umlauts. |
 | [Hashtag & Mention Extractor](https://minitool.io/tools/hashtag-extractor) | Pull every hashtag and mention out of social media text. |
 | [Hashtag Generator](https://minitool.io/tools/hashtag-generator) | Turn text into ranked, copyable hashtags automatically. |
 | [Hill Cipher](https://minitool.io/tools/hill-cipher) | Encrypt and decrypt text with the classic 2x2 Hill cipher. |
 | [Homoglyph Detector](https://minitool.io/tools/homoglyph-detector) | Spot lookalike and invisible Unicode characters in text. |
+| [HTML Tag Stripper](https://minitool.io/tools/strip-html-tags) | Remove HTML tags and get clean plain text. |
 | [Initials Generator](https://minitool.io/tools/initials-generator) | Turn names and phrases into initials, one per line. |
 | [Interleave Lines](https://minitool.io/tools/interleave-lines) | Merge two lists line by line into one alternating list. |
 | [Invisible Character Remover](https://minitool.io/tools/invisible-character-remover) | Strip zero-width spaces, BOM and other hidden characters. |
@@ -78,6 +85,7 @@
 | [Lipogram Checker](https://minitool.io/tools/lipogram-checker) | Check whether your text avoids chosen forbidden letters. |
 | [List Set Operations](https://minitool.io/tools/list-set-operations) | Compute union, intersection, and difference of two lists. |
 | [Lorem Ipsum Generator](https://minitool.io/tools/lorem-ipsum-generator) | Generate placeholder Lorem Ipsum text for mockups. |
+| [Markdown Link Builder](https://minitool.io/tools/markdown-link-builder) | Turn a URL and label into Markdown, HTML, or BBCode links. |
 | [Markdown Link Extractor](https://minitool.io/tools/markdown-link-extractor) | Pull every link and image URL out of a Markdown document. |
 | [Markdown Linter](https://minitool.io/tools/markdown-linter) | Lint markdown for broken links, missing alt text and style i |
 | [Markdown Preview](https://minitool.io/tools/markdown-preview) | Write Markdown and see live formatted output instantly. |
@@ -88,8 +96,8 @@
 | [Mirror Text Generator](https://minitool.io/tools/mirror-text-generator) | Flip text into Unicode mirror writing for fun posts and art. |
 | [Mocking Text Generator](https://minitool.io/tools/mocking-text-generator) | Turn any text into alternating-case sPoNgEbOb mocking text. |
 | [Mojibake Fixer](https://minitool.io/tools/mojibake-fixer) | Repair text that was UTF-8 but got read as Windows-1252. |
-| [Morse Code Translator](https://minitool.io/tools/morse-code) | Translate text to Morse code and decode Morse back to text. |
 | [Morse Code Player](https://minitool.io/tools/morse-code-player) | Hear your text as Morse code tones with adjustable speed. |
+| [Morse Code Translator](https://minitool.io/tools/morse-code) | Translate text to Morse code and decode Morse back to text. |
 | [N-gram Generator](https://minitool.io/tools/n-gram-generator) | Word and character n-grams with live frequency counts. |
 | [NATO Alphabet Decoder](https://minitool.io/tools/nato-alphabet-decoder) | Decode NATO phonetic alphabet words back into plain text. |
 | [Number Extractor](https://minitool.io/tools/number-extractor) | Pull every number out of mixed text, with filters. |
@@ -106,12 +114,14 @@
 | [Pig Latin Translator](https://minitool.io/tools/pig-latin-translator) | Translate English text into Pig Latin instantly. |
 | [Pigpen Cipher](https://minitool.io/tools/pigpen-cipher) | Encode and decode the classic pigpen (Masonic) cipher. |
 | [Playfair Cipher](https://minitool.io/tools/playfair-cipher) | Playfair cipher encrypt and decrypt with any keyword. |
+| [Porter Stemmer](https://minitool.io/tools/porter-stemmer) | Stem English words with the original 1980 Porter algorithm. |
 | [Prefix Suffix Adder](https://minitool.io/tools/prefix-suffix-adder) | Add a prefix, suffix, or both to every line of text. |
 | [Rail Fence Cipher](https://minitool.io/tools/rail-fence-cipher) | Encode and decode the rail fence cipher with custom rails. |
 | [Random Letter Generator](https://minitool.io/tools/random-letter-generator) | Generate random letters with alphabet and no-repeat options. |
 | [Random Line Picker](https://minitool.io/tools/random-line-picker) | Pick random lines from a list for raffles and giveaways. |
 | [Random Paragraph Generator](https://minitool.io/tools/random-paragraph-generator) | Generate random English paragraphs for mockups and drafts. |
 | [Random Quote Generator](https://minitool.io/tools/random-quote-generator) | Discover and copy inspirational, funny, and wisdom quotes. |
+| [Random Sentence Generator](https://minitool.io/tools/random-sentence-generator) | Generate natural-sounding random sentences for filler text. |
 | [Random Team Generator](https://minitool.io/tools/random-team-generator) | Split a list of names into balanced random teams instantly. |
 | [Random Username Generator](https://minitool.io/tools/random-username-generator) | Generate catchy usernames with custom styles and separators. |
 | [Random Word Generator](https://minitool.io/tools/random-word-generator) | Pick random English words; choose the count and separator. |
@@ -127,14 +137,12 @@
 | [Repeated Text Generator](https://minitool.io/tools/repeated-text-generator) | Repeat any text N times with a custom separator. |
 | [Repeated Word Finder](https://minitool.io/tools/repeated-word-finder) | Find accidental doubled words (the the, and and) in text. |
 | [Reverse Lines](https://minitool.io/tools/reverse-lines) | Reverse the line order of any text — last line first. |
-| [Word Order Reverser](https://minitool.io/tools/reverse-words) | Flip the word order in any text, keeping each word intact. |
 | [ROT13 Encoder](https://minitool.io/tools/rot13-encoder) | Encode and decode text with ROT13, ROT5, ROT18 or ROT47. |
 | [Round Robin Schedule Generator](https://minitool.io/tools/round-robin-schedule-generator) | Build round robin league schedules with byes, CSV export. |
 | [Run-Length Encoder](https://minitool.io/tools/run-length-encoder) | Compress text with run-length encoding and decode it back. |
-| [Sarcasm Text Generator](https://minitool.io/tools/sarcasm-text-generator) | Convert text into alternating sarcastic SpongeBob case. |
 | [Scrabble Score Calculator](https://minitool.io/tools/scrabble-score-calculator) | Score Scrabble words with blanks and word bonuses. |
-| [Flag Semaphore Cipher](https://minitool.io/tools/semaphore-cipher) | Convert text to flag semaphore positions and back. |
 | [Sentence Counter](https://minitool.io/tools/sentence-counter) | Count sentences, paragraphs, words, and sentence stats. |
+| [Sentence Reverser](https://minitool.io/tools/sentence-reverser) | Reverse the order of sentences in any piece of text. |
 | [Sentence Splitter](https://minitool.io/tools/sentence-splitter) | Split prose into sentences with smart abbreviation handling. |
 | [Small Caps Generator](https://minitool.io/tools/small-caps-text-generator) | Convert lowercase letters into Unicode small capital glyphs. |
 | [Smart Quote Converter](https://minitool.io/tools/smart-quote-converter) | Switch straight and smart quotes, dashes and ellipses. |
@@ -146,14 +154,11 @@
 | [SRT to VTT Converter](https://minitool.io/tools/srt-to-vtt) | Convert SubRip (.srt) subtitles to WebVTT (.vtt) and back. |
 | [Strikethrough Text Generator](https://minitool.io/tools/strikethrough-text-generator) | Create strikethrough, slash or short-stroke Unicode text. |
 | [String Analyzer](https://minitool.io/tools/string-analyzer) | Analyze text with character, word and entropy stats. |
-| [Emoji Remover](https://minitool.io/tools/strip-emojis) | Remove emoji characters from any text. |
-| [HTML Tag Stripper](https://minitool.io/tools/strip-html-tags) | Remove HTML tags and get clean plain text. |
 | [Syllable Counter](https://minitool.io/tools/syllable-counter) | Count syllables in English text per word. |
 | [Tabs to Spaces Converter](https://minitool.io/tools/tabs-to-spaces) | Convert code indentation between tabs and spaces. |
 | [Tap Code Cipher](https://minitool.io/tools/tap-code) | Encode and decode the classic 5x5 tap code cipher. |
 | [Template Filler](https://minitool.io/tools/template-filler) | Fill {{placeholder}} templates with your values. |
 | [Text Diff](https://minitool.io/tools/text-diff) | Compare two texts side-by-side and highlight differences. |
-| [Text to Hex Converter](https://minitool.io/tools/text-hex-converter) | Convert text to hex bytes and decode hex back to text. |
 | [Text Interleaver](https://minitool.io/tools/text-interleaver) | Merge two texts line by line: zip, pair, or append. |
 | [Text Justifier](https://minitool.io/tools/text-justifier) | Pad or justify lines of text to an exact character width. |
 | [Text Redactor](https://minitool.io/tools/text-redactor) | Black out emails, phones, cards, IPs, URLs and dates. |
@@ -164,6 +169,7 @@
 | [Text Summarizer](https://minitool.io/tools/text-summarizer) | Extractive summarizer that pulls out the key sentences. |
 | [Text to Array Converter](https://minitool.io/tools/text-to-array) | Turn a list of lines into a JSON, JS, Python or PHP array. |
 | [Text to Binary](https://minitool.io/tools/text-to-binary) | Convert text to binary code and back again instantly. |
+| [Text to Hex Converter](https://minitool.io/tools/text-hex-converter) | Convert text to hex bytes and decode hex back to text. |
 | [Text to Hexdump](https://minitool.io/tools/text-to-hexdump) | View text as a byte-level hexdump with offsets and ASCII. |
 | [Text to Image](https://minitool.io/tools/text-to-image) | Render styled text to a downloadable PNG image. |
 | [Text to NATO Alphabet](https://minitool.io/tools/text-to-nato-alphabet) | Convert text to NATO phonetic alphabet spelling. |
@@ -171,6 +177,7 @@
 | [Text to Slug](https://minitool.io/tools/text-to-slug) | Convert any text into a URL-friendly slug instantly. |
 | [Text to Speech](https://minitool.io/tools/text-to-speech) | Read any text aloud with voice, speed and pitch controls. |
 | [Thread Splitter](https://minitool.io/tools/thread-splitter) | Split long text into numbered posts under a character limit. |
+| [Token Counter](https://minitool.io/tools/token-counter) | Estimate LLM token counts against context limits. |
 | [Transliterate Text](https://minitool.io/tools/transliterate-text) | Convert Cyrillic and Greek text into Latin characters. |
 | [Tree Diagram Generator](https://minitool.io/tools/tree-diagram-generator) | Turn an indented outline into an ASCII or Unicode tree. |
 | [Twitter / X Character Counter](https://minitool.io/tools/twitter-character-counter) | Count X posts with CJK weighting and split threads at 280. |
@@ -181,7 +188,6 @@
 | [Unicode to ASCII](https://minitool.io/tools/unicode-to-ascii) | Convert smart quotes, accents, and emoji to plain ASCII. |
 | [Unique Characters](https://minitool.io/tools/unique-characters) | Find every unique character in text with counts and sorting. |
 | [Upside Down Text Generator](https://minitool.io/tools/upside-down-text) | Flip text upside down with Unicode for fun posts and bios. |
-| [Upside Down Text Generator](https://minitool.io/tools/upsidedown-text-generator) | Flip text upside down with rotated Unicode characters. |
 | [URL Extractor](https://minitool.io/tools/url-extractor) | Pull every URL out of pasted text, with dedupe and sorting. |
 | [URL Remover](https://minitool.io/tools/url-remover) | Strip links and domains from text in one click. |
 | [Vertical Text Generator](https://minitool.io/tools/vertical-text-generator) | Stack text vertically, or copy a CSS writing-mode snippet. |
@@ -193,15 +199,17 @@
 | [WhatsApp Text Formatter](https://minitool.io/tools/whatsapp-text-formatter) | Add bold, italic, strike and monospace to WhatsApp messages. |
 | [Whitespace Remover](https://minitool.io/tools/whitespace-remover) | Remove extra spaces, tabs and line breaks from text. |
 | [Whitespace Visualizer](https://minitool.io/tools/whitespace-visualizer) | Reveal hidden spaces, tabs and trailing blanks in text. |
-| [Word Cloud Generator](https://minitool.io/tools/word-cloud-generator) | Turn text into a colorful word cloud sized by frequency. |
 | [Word & Character Counter](https://minitool.io/tools/word-counter) | Count words, characters, and sentences in real time. |
+| [Word Cloud Generator](https://minitool.io/tools/word-cloud-generator) | Turn text into a colorful word cloud sized by frequency. |
 | [Word Frequency Counter](https://minitool.io/tools/word-frequency-counter) | Count how often each word appears in your text. |
+| [Word Order Reverser](https://minitool.io/tools/reverse-words) | Flip the word order in any text, keeping each word intact. |
 | [Word Scrambler](https://minitool.io/tools/word-scrambler) | Shuffle letters inside words while keeping them readable. |
 | [Word Search Puzzle Generator](https://minitool.io/tools/word-search-puzzle-generator) | Create printable word search puzzles with a solution view. |
 | [Word Search Solver](https://minitool.io/tools/word-search-solver) | Find hidden words in a letter grid across 8 directions. |
 | [Word Sorter](https://minitool.io/tools/word-sorter) | Sort words in any text alphabetically, A to Z or Z to A. |
 | [Word Wrap Formatter](https://minitool.io/tools/word-wrap-formatter) | Wrap or unwrap text to any column width instantly. |
 | [Wordle Solver](https://minitool.io/tools/wordle-solver) | Filter 5-letter words with green, yellow, gray clues. |
+| [Words to Numbers](https://minitool.io/tools/words-to-numbers) | Convert English number words into exact digits. |
 | [Words to Pages Converter](https://minitool.io/tools/words-to-pages-converter) | Convert a word count into pages for essays and manuscripts. |
 | [YouTube Chapters Generator](https://minitool.io/tools/youtube-chapters-generator) | Validated YouTube chapter list for video descriptions. |
 | [Zalgo Text Generator](https://minitool.io/tools/zalgo-text-generator) | Turn text into creepy zalgo glitch text with a slider. |
@@ -210,15 +218,19 @@
 
 | Tool | What it does |
 |------|--------------|
+| [.editorconfig Generator](https://minitool.io/tools/editorconfig-generator) | Generate a clean .editorconfig from options and presets. |
+| [.htaccess Redirect Generator](https://minitool.io/tools/htaccess-redirect-generator) | Generate Apache .htaccess 301 and 302 redirect rules. |
 | [AES Encryptor](https://minitool.io/tools/aes-encryptor) | Encrypt and decrypt text with AES-256-GCM and a passphrase. |
 | [Apache Log Parser](https://minitool.io/tools/apache-log-parser) | Parse Apache access logs into tables, stats and JSON. |
 | [API Spec Diff](https://minitool.io/tools/api-spec-diff) | Diff two OpenAPI specs: added, removed, changed endpoints. |
 | [ASCII Table](https://minitool.io/tools/ascii-table) | Browse and search the full 128-character ASCII table. |
 | [Barcode Generator](https://minitool.io/tools/barcode-generator) | Generate Code 39 barcodes from text with live preview. |
 | [Base32 Encoder](https://minitool.io/tools/base32-encoder) | Encode and decode text with Base32 (RFC 4648). |
+| [Base45 Encoder](https://minitool.io/tools/base45-encoder) | Encode and decode Base45 per RFC 9285. |
 | [Base58 Encoder](https://minitool.io/tools/base58-encoder) | Encode and decode Base58 using the Bitcoin alphabet. |
 | [Base62 Encoder](https://minitool.io/tools/base62-encoder) | Encode and decode Base62 with the 0-9A-Za-z alphabet. |
 | [Base64 Encoder & Decoder](https://minitool.io/tools/base64-encoder) | Encode and decode Base64 strings instantly. |
+| [Base64 to Image](https://minitool.io/tools/base64-to-image) | Decode base64 or data URIs into a previewable image. |
 | [Base85 (Ascii85) Encoder](https://minitool.io/tools/base85-encoder) | Encode and decode Ascii85 (Base85) text online. |
 | [Base91 Encoder](https://minitool.io/tools/base91-encoder) | Encode and decode basE91 text in your browser. |
 | [Basic Auth Generator](https://minitool.io/tools/basic-auth-generator) | Build and decode HTTP Basic authentication headers. |
@@ -226,32 +238,37 @@
 | [Bencode Decoder](https://minitool.io/tools/bencode-decoder) | Decode bencode (torrent files, peer messages) to JSON. |
 | [Binary to Text](https://minitool.io/tools/binary-to-text) | Convert binary strings back into readable text. |
 | [Bitwise Calculator](https://minitool.io/tools/bitwise-calculator) | AND, OR, XOR, NOT and shifts on 8/16/32/64-bit integers. |
+| [Bracket Matcher](https://minitool.io/tools/bracket-matcher) | Check that (), [], and {} are balanced in your code. |
 | [Brainfuck Interpreter](https://minitool.io/tools/brainfuck-interpreter) | Run Brainfuck programs with a step guard and memory view. |
 | [CamelCase Splitter](https://minitool.io/tools/camelcase-splitter) | Split camelCase, snake_case and kebab-case into words. |
+| [Certificate Chain Order Checker](https://minitool.io/tools/cert-chain-order-checker) | Verify PEM certificate bundles are ordered leaf to root. |
 | [Changelog Generator](https://minitool.io/tools/changelog-generator) | Turn conventional commits into a formatted changelog. |
 | [Character Map](https://minitool.io/tools/character-map) | Browse and copy special Unicode characters. |
 | [Chmod Calculator](https://minitool.io/tools/chmod-calculator) | Convert between octal chmod values and permissions. |
 | [CIDR Merger](https://minitool.io/tools/cidr-merger) | Merge IPv4 CIDR blocks into the smallest equivalent list. |
-| [CSS Clip-Path Generator](https://minitool.io/tools/clip-path-generator) | Build clip-path shapes with sliders and copy the CSS. |
+| [Code Comment Remover](https://minitool.io/tools/comment-remover) | Remove comments from JavaScript, CSS, or HTML safely. |
 | [Color Blindness Simulator](https://minitool.io/tools/color-blindness-simulator) | See any color through four color blindness filters. |
 | [Color Contrast Checker](https://minitool.io/tools/color-contrast-checker) | Check WCAG color contrast ratios for text and backgrounds. |
 | [Color Name Identifier](https://minitool.io/tools/color-name-identifier) | Find the closest CSS named color for any hex code. |
 | [Color Palette Generator](https://minitool.io/tools/color-palette-generator) | Build shades, tints, and color harmonies from any hex color. |
-| [Code Comment Remover](https://minitool.io/tools/comment-remover) | Remove comments from JavaScript, CSS, or HTML safely. |
-| [Debug Statement Remover](https://minitool.io/tools/console-log-finder) | Find and strip console.log, print and other debug output. |
 | [Content Security Policy Generator](https://minitool.io/tools/content-security-policy-generator) | Build a Content-Security-Policy header or meta tag. |
 | [Conventional Commit Generator](https://minitool.io/tools/conventional-commit-generator) | Build clean type(scope)!: subject commit messages. |
 | [CRC Calculator](https://minitool.io/tools/crc-calculator) | Compute CRC-32, CRC-32C, or Adler-32 checksums. |
+| [Cron Expression Builder](https://minitool.io/tools/cron-expression-builder) | Build cron expressions from dropdowns and live descriptions. |
 | [Cron Expression Parser](https://minitool.io/tools/cron-expression-parser) | Parse and explain cron expressions in plain English. |
+| [Cron Next Runs](https://minitool.io/tools/cron-next-runs) | Show the next run times for any 5-field cron expression. |
 | [CSS Animation Generator](https://minitool.io/tools/css-animation-generator) | Build keyframe animations and preview them live. |
 | [CSS Border Radius Generator](https://minitool.io/tools/css-border-radius-generator) | Design rounded corners visually and copy the CSS. |
 | [CSS Box Shadow Generator](https://minitool.io/tools/css-box-shadow-generator) | Generate CSS box-shadow code with live preview. |
 | [CSS Button Generator](https://minitool.io/tools/css-button-generator) | Design a button visually and copy its CSS and HTML. |
 | [CSS Clamp Calculator](https://minitool.io/tools/css-clamp-calculator) | Build fluid css clamp() font expressions with live preview. |
+| [CSS Clip-Path Generator](https://minitool.io/tools/clip-path-generator) | Build clip-path shapes with sliders and copy the CSS. |
+| [CSS Filter Generator](https://minitool.io/tools/css-filter-generator) | Compose CSS filters with sliders, presets, live preview. |
 | [CSS Gradient Generator](https://minitool.io/tools/css-gradient-generator) | Create CSS linear and radial gradients with live preview. |
 | [CSS Grid Generator](https://minitool.io/tools/css-grid-generator) | Design a CSS Grid layout visually and copy the CSS and HTML. |
 | [CSS Minifier](https://minitool.io/tools/css-minifier) | Minify CSS by removing whitespace, comments and semicolons. |
 | [CSS Selector Tester](https://minitool.io/tools/css-selector-tester) | Test a CSS selector against HTML and see what matches. |
+| [CSS Selector to XPath](https://minitool.io/tools/css-selector-to-xpath) | Convert CSS selectors to XPath 1.0 for scraping and tests. |
 | [CSS Specificity Calculator](https://minitool.io/tools/css-specificity-calculator) | Calculate CSS selector specificity as (a, b, c) weights. |
 | [CSS Text Shadow Generator](https://minitool.io/tools/css-text-shadow-generator) | Layered CSS text shadows with live preview and code copy. |
 | [CSS to Inline Styles](https://minitool.io/tools/css-to-inline-styles) | Move CSS rules into inline style attributes in your HTML. |
@@ -270,10 +287,11 @@
 | [Cubic Bezier Editor](https://minitool.io/tools/cubic-bezier-editor) | Design CSS cubic-bezier easing curves and copy the code. |
 | [cURL to Code](https://minitool.io/tools/curl-to-code) | Convert curl commands to JS fetch or Python requests. |
 | [Data URI Generator](https://minitool.io/tools/data-uri-generator) | Convert files to Base64 data URIs for embedding in CSS/HTML. |
+| [Debug Statement Remover](https://minitool.io/tools/console-log-finder) | Find and strip console.log, print and other debug output. |
+| [DES Encryptor](https://minitool.io/tools/des-encryptor) | Encrypt and decrypt hex data with classic DES (ECB mode). |
 | [Docker Run to Compose](https://minitool.io/tools/docker-run-to-compose) | Turn a docker run command into a docker-compose service. |
 | [Dockerfile Generator](https://minitool.io/tools/dockerfile-generator) | Build a clean Dockerfile from stack presets and form inputs. |
 | [Dockerignore Generator](https://minitool.io/tools/dockerignore-generator) | Build a clean .dockerignore from language presets and rules. |
-| [.editorconfig Generator](https://minitool.io/tools/editorconfig-generator) | Generate a clean .editorconfig from options and presets. |
 | [Email Header Analyzer](https://minitool.io/tools/email-header-analyzer) | Trace hops, check SPF/DKIM/DMARC, spot phishing flags. |
 | [Email Obfuscator](https://minitool.io/tools/email-obfuscator) | Hide email addresses from spam bots with encoding. |
 | [Endian Swapper](https://minitool.io/tools/endian-swapper) | Reverse byte order or swap 16/32/64-bit words in hex. |
@@ -304,8 +322,8 @@
 | [Hashids Generator](https://minitool.io/tools/hashids-generator) | Encode numbers as short hashids and decode them back. |
 | [Hex Decimal Converter](https://minitool.io/tools/hex-decimal-converter) | Convert between hex, decimal, binary, and octal. |
 | [Hex Viewer](https://minitool.io/tools/hex-viewer) | Inspect files and text as hex dumps with ASCII details. |
+| [HKDF Generator](https://minitool.io/tools/hkdf-generator) | Derive keys with HKDF (RFC 5869) and SHA-1/256/384/512. |
 | [HMAC Generator](https://minitool.io/tools/hmac-generator) | Compute HMAC-SHA-1/256/512 codes with any secret key. |
-| [.htaccess Redirect Generator](https://minitool.io/tools/htaccess-redirect-generator) | Generate Apache .htaccess 301 and 302 redirect rules. |
 | [HTML Beautifier](https://minitool.io/tools/html-beautifier) | Format and indent HTML code for readability. |
 | [HTML Entity Encoder](https://minitool.io/tools/html-entity-encoder) | Encode and decode HTML entities instantly in your browser. |
 | [HTML Form Generator](https://minitool.io/tools/html-form-generator) | Build HTML form markup field by field and copy the result. |
@@ -316,10 +334,11 @@
 | [HTML Validator](https://minitool.io/tools/html-validator) | Check HTML for unclosed tags, mismatches and doctype issues. |
 | [htpasswd Generator](https://minitool.io/tools/htpasswd-generator) | Generate Apache .htpasswd lines with MD5-apr1 or SHA-1. |
 | [HTTP Headers Parser](https://minitool.io/tools/http-headers-parser) | Parse raw HTTP headers into a clean table and JSON. |
+| [HTTP Request to cURL](https://minitool.io/tools/http-to-curl) | Turn a raw HTTP request into a ready-to-run cURL command. |
 | [HTTP Status Code Lookup](https://minitool.io/tools/http-status-code-lookup) | Quick reference for HTTP status codes with search. |
 | [HTTP Status Codes](https://minitool.io/tools/http-status-codes) | Searchable reference of every HTTP status code. |
-| [HTTP Request to cURL](https://minitool.io/tools/http-to-curl) | Turn a raw HTTP request into a ready-to-run cURL command. |
 | [IBAN Validator](https://minitool.io/tools/iban-validator) | Validate IBAN numbers with the official mod-97 checksum. |
+| [ICS Event Generator](https://minitool.io/tools/ics-event-generator) | Build a valid iCalendar (.ics) event file and download it. |
 | [IEEE 754 Float Converter](https://minitool.io/tools/ieee-754-converter) | Convert decimals to IEEE 754 binary32/64 and back. |
 | [Image Color Picker](https://minitool.io/tools/image-color-picker) | Pick colors from any image with a click — fully offline. |
 | [Image Format Converter](https://minitool.io/tools/image-format-converter) | Convert images between PNG, JPEG and WebP in the browser. |
@@ -387,14 +406,17 @@
 | [Prettier Config Generator](https://minitool.io/tools/prettier-config-generator) | Build a .prettierrc config file visually and download it. |
 | [Properties to JSON](https://minitool.io/tools/properties-to-json) | Convert Java .properties files to JSON. |
 | [Punycode Converter](https://minitool.io/tools/punycode-converter) | Convert IDN domains between Unicode and xn-- punycode form. |
+| [PWA Manifest Generator](https://minitool.io/tools/pwa-manifest-generator) | Build a web app manifest and install snippet for your PWA. |
 | [PX to REM Converter](https://minitool.io/tools/px-to-rem-converter) | Convert pixels to REM and back with a custom root size. |
 | [QR Code Generator](https://minitool.io/tools/qr-code-generator) | Generate QR codes from any text or URL. Download as PNG. |
 | [Quoted-Printable Encoder / Decoder](https://minitool.io/tools/quoted-printable-encoder) | Encode and decode quoted-printable, RFC 2045 style. |
 | [Regex Explainer](https://minitool.io/tools/regex-explainer) | Turn any regex into a plain-English token breakdown. |
 | [Regex Speed Tester](https://minitool.io/tools/regex-speed-tester) | Benchmark how fast a regular expression runs. |
 | [Regex Tester](https://minitool.io/tools/regex-tester) | Test regular expressions with live match highlighting. |
+| [RIPEMD-160 Generator](https://minitool.io/tools/ripemd160-generator) | Compute RIPEMD-160 hashes of any text, fully offline. |
 | [Robots.txt Generator](https://minitool.io/tools/robots-txt-generator) | Build a valid robots.txt with custom per-bot rules. |
 | [RSA Key Generator](https://minitool.io/tools/rsa-key-generator) | Generate RSA key pairs and export them as PEM text. |
+| [scrypt Generator](https://minitool.io/tools/scrypt-generator) | Derive keys with scrypt (RFC 7914) — the memory-hard KDF. |
 | [Security Headers Checker](https://minitool.io/tools/security-headers-checker) | Grade your site's HTTP security headers and see gaps. |
 | [Semantic Version Calculator](https://minitool.io/tools/semantic-version-calculator) | Validate, bump and compare semantic versions. |
 | [Semver Bumper](https://minitool.io/tools/semver-bumper) | Bump semantic versions: major, minor, patch, pre-release. |
@@ -417,7 +439,7 @@
 | [Sudoku Generator](https://minitool.io/tools/sudoku-generator) | Generate Sudoku puzzles with unique solutions; play online. |
 | [SVG Optimizer](https://minitool.io/tools/svg-optimizer) | Clean SVG markup: strip editor junk, defaults and bloat. |
 | [Text Encoding Converter](https://minitool.io/tools/text-encoding-converter) | Repair mojibake and convert text between encodings. |
-| [Unix Timestamp Converter](https://minitool.io/tools/timestamp-converter) | Convert Unix timestamps to dates and back instantly. |
+| [Text Entropy Calculator](https://minitool.io/tools/text-entropy-calculator) | Measure Shannon entropy and character frequency in text. |
 | [TODO Comment Finder](https://minitool.io/tools/todo-finder) | Scan source code for TODO, FIXME, HACK and other markers. |
 | [TOML to JSON Converter](https://minitool.io/tools/toml-to-json) | Convert TOML config files to pretty JSON. |
 | [TOTP Generator](https://minitool.io/tools/totp-generator) | Generate RFC 6238 TOTP codes from a Base32 secret, offline. |
@@ -426,6 +448,7 @@
 | [ULID Generator](https://minitool.io/tools/ulid-generator) | Generate sortable ULIDs in bulk with timestamp decoding. |
 | [Unicode Code Point Inspector](https://minitool.io/tools/unicode-code-point) | Decode every character: code point, UTF-8, block and name. |
 | [Unicode Normalizer](https://minitool.io/tools/unicode-normalizer) | Normalize and compare Unicode text in NFC, NFD, NFKC, NFKD. |
+| [Unix Timestamp Converter](https://minitool.io/tools/timestamp-converter) | Convert Unix timestamps to dates and back instantly. |
 | [URL Encoder & Decoder](https://minitool.io/tools/url-encoder) | Percent-encode or decode URLs and query strings. |
 | [URL Parser](https://minitool.io/tools/url-parser) | Break down any URL into protocol, host, path and query. |
 | [User Agent Parser](https://minitool.io/tools/user-agent-parser) | Parse any user agent string into browser, OS and device. |
@@ -445,6 +468,7 @@
 | [YAML to JSON](https://minitool.io/tools/yaml-to-json) | Convert YAML data into formatted JSON output. |
 | [YAML to XML](https://minitool.io/tools/yaml-to-xml) | Convert YAML documents into clean, readable XML. |
 | [YAML Validator](https://minitool.io/tools/yaml-validator) | Validate YAML: structure, quotes, anchors, duplicate keys. |
+| [Z85 Encoder](https://minitool.io/tools/z85-encoder) | Encode and decode ZeroMQ Z85 binary-to-text (RFC 32). |
 
 ## Calculators & Converters
 
@@ -452,7 +476,6 @@
 |------|--------------|
 | [555 Timer Calculator](https://minitool.io/tools/555-timer-calculator) | Compute 555 timer astable and monostable timing values. |
 | [A/B Test Calculator](https://minitool.io/tools/ab-test-calculator) | Check if a conversion-rate difference is significant. |
-| [Beer ABV Calculator](https://minitool.io/tools/abv-calculator) | Calculate beer ABV, attenuation and calories from OG and FG. |
 | [Age Calculator](https://minitool.io/tools/age-calculator) | Calculate exact age in years, months and days. |
 | [Annuity Calculator](https://minitool.io/tools/annuity-calculator) | Payment, loan value or future value for any annuity. |
 | [Aspect Ratio Calculator](https://minitool.io/tools/aspect-ratio-calculator) | Calculate dimensions and aspect ratios for images. |
@@ -463,6 +486,7 @@
 | [Barbell Plate Calculator](https://minitool.io/tools/barbell-plate-calculator) | Find the exact plates to load for any barbell weight. |
 | [Battery Life Calculator](https://minitool.io/tools/battery-life-calculator) | Estimate battery runtime from capacity and draw. |
 | [Bayes Theorem Calculator](https://minitool.io/tools/bayes-theorem-calculator) | Find the posterior with Bayes or a medical test 2x2 table. |
+| [Beer ABV Calculator](https://minitool.io/tools/abv-calculator) | Calculate beer ABV, attenuation and calories from OG and FG. |
 | [Bill Splitter](https://minitool.io/tools/bill-splitter) | Split a bill and tip evenly among any number of people. |
 | [Binary Calculator](https://minitool.io/tools/binary-calculator) | Add, subtract and do bitwise logic on binary numbers. |
 | [Blood Pressure Calculator](https://minitool.io/tools/blood-pressure-calculator) | Work out MAP, pulse pressure, and your BP category. |
@@ -478,12 +502,14 @@
 | [Budget Calculator](https://minitool.io/tools/budget-calculator) | Split income into needs, wants and savings with 50/30/20. |
 | [CAGR Calculator](https://minitool.io/tools/cagr-calculator) | Compute CAGR and a year-by-year growth projection table. |
 | [Calorie Calculator](https://minitool.io/tools/calorie-calculator) | Estimate daily calorie needs with Mifflin-St Jeor equation. |
+| [Cap Rate Calculator](https://minitool.io/tools/cap-rate-calculator) | Calculate real estate cap rate from NOI and property value. |
 | [Capacitor Code Calculator](https://minitool.io/tools/capacitor-code-calculator) | Read and write ceramic capacitor markings in seconds. |
 | [Car Lease Calculator](https://minitool.io/tools/car-lease-calculator) | Estimate a lease payment from residual and money factor. |
 | [Carbon Footprint Calculator](https://minitool.io/tools/carbon-footprint-calculator) | Estimate your yearly CO2e from travel, home energy and diet. |
 | [Coffee Ratio Calculator](https://minitool.io/tools/coffee-ratio-calculator) | Convert coffee dose and ratio into water, bloom, yield. |
 | [Color Converter](https://minitool.io/tools/color-converter) | Convert colors between HEX, RGB and HSL formats. |
 | [Commission Calculator](https://minitool.io/tools/commission-calculator) | Work out commission earnings per sale and in total. |
+| [Complex Number Calculator](https://minitool.io/tools/complex-number-calculator) | Add, subtract, multiply, and divide complex numbers. |
 | [Compound Interest Calculator](https://minitool.io/tools/compound-interest-calculator) | Calculate compound interest with contributions. |
 | [Concrete Calculator](https://minitool.io/tools/concrete-calculator) | Concrete volume in cubic yards and bag counts for any slab. |
 | [Confidence Interval Calculator](https://minitool.io/tools/confidence-interval-calculator) | Build a confidence interval from mean, std deviation, and n. |
@@ -525,6 +551,7 @@
 | [Fuel Cost Calculator](https://minitool.io/tools/fuel-cost-calculator) | Work out fuel needed and trip cost for any journey. |
 | [Fuel Economy Converter](https://minitool.io/tools/fuel-economy-converter) | Convert between MPG (US/UK), L/100km and km/L. |
 | [GCF & LCM Calculator](https://minitool.io/tools/gcf-lcm-calculator) | Find the greatest common factor and least common multiple. |
+| [Gear Ratio Calculator](https://minitool.io/tools/gear-ratio-calculator) | Bike gear ratios, development, gear inches, and speed. |
 | [Golden Ratio Calculator](https://minitool.io/tools/golden-ratio-calculator) | Split any measurement into golden ratio proportions. |
 | [Golf Handicap Calculator](https://minitool.io/tools/golf-handicap-calculator) | Handicap Index from your score history, plus course. |
 | [GPA Calculator](https://minitool.io/tools/gpa-calculator) | Calculate weighted GPA from course grades and credits. |
@@ -534,9 +561,12 @@
 | [Heart Rate Zone Calculator](https://minitool.io/tools/heart-rate-zone-calculator) | Calculate personalized heart rate training zones by age. |
 | [Heat Index Calculator](https://minitool.io/tools/heat-index-calculator) | Find how hot it really feels from temperature and humidity. |
 | [Hiking Time Calculator](https://minitool.io/tools/hiking-time-calculator) | Estimate hiking time with Naismith's rule. |
+| [House Affordability Calculator](https://minitool.io/tools/house-affordability-calculator) | Max home price from income, debts, and your DTI limits. |
+| [Ideal Gas Law Calculator](https://minitool.io/tools/ideal-gas-law-calculator) | Solve PV = nRT for pressure, volume, temperature or moles. |
 | [Ideal Weight Calculator](https://minitool.io/tools/ideal-weight-calculator) | Estimate ideal body weight with four medical formulas. |
 | [Inflation Calculator](https://minitool.io/tools/inflation-calculator) | Adjust any amount for inflation between two years. |
 | [ISO Week Number](https://minitool.io/tools/iso-week-number) | Convert dates to ISO 8601 week numbers and back. |
+| [IV Drip Rate Calculator](https://minitool.io/tools/iv-drip-rate-calculator) | Calculate IV drip rates in gtt/min and infusion times. |
 | [LED Resistor Calculator](https://minitool.io/tools/led-resistor-calculator) | Size the right series resistor for any LED circuit. |
 | [Linear Regression Calculator](https://minitool.io/tools/linear-regression-calculator) | Fit a least-squares line and get slope, intercept, and r. |
 | [Loan Calculator](https://minitool.io/tools/loan-calculator) | Calculate monthly payments and total interest for any loan. |
@@ -578,6 +608,7 @@
 | [Pool Volume Calculator](https://minitool.io/tools/pool-volume-calculator) | Calculate pool volume in gallons from size and depth. |
 | [Position Size Calculator](https://minitool.io/tools/position-size-calculator) | How many units to trade for a fixed risk percentage. |
 | [Prime Factorization Calculator](https://minitool.io/tools/prime-factorization-calculator) | Factor any integer into its prime factors instantly. |
+| [Proportion Calculator](https://minitool.io/tools/proportion-calculator) | Solve rule-of-three proportions and simplify ratios. |
 | [Quadratic Equation Solver](https://minitool.io/tools/quadratic-equation-solver) | Solve any quadratic equation with steps and roots. |
 | [Race Time Predictor](https://minitool.io/tools/race-time-predictor) | Predict race times at other distances from a recent result. |
 | [RAID Calculator](https://minitool.io/tools/raid-calculator) | Usable capacity and fault tolerance for RAID 0/1/5/6/10. |
@@ -590,12 +621,14 @@
 | [Rocket Delta-v Calculator](https://minitool.io/tools/rocket-delta-v-calculator) | Compute a rocket's delta-v from Isp, masses and gravity. |
 | [ROI Calculator](https://minitool.io/tools/roi-calculator) | Calculate ROI, net profit, and annualized return percentage. |
 | [Roman Numeral Converter](https://minitool.io/tools/roman-numeral-converter) | Convert numbers to Roman numerals and vice versa. |
+| [Roof Pitch Calculator](https://minitool.io/tools/roof-pitch-calculator) | Roof pitch: rise and run to angle, slope percent, X:12. |
 | [Running Pace Calculator](https://minitool.io/tools/running-pace-calculator) | Turn distance and time into pace, speed and predictions. |
 | [Salary Calculator](https://minitool.io/tools/salary-calculator) | Convert hourly wage to annual salary and vice versa. |
 | [Sales Tax Calculator](https://minitool.io/tools/sales-tax-calculator) | Calculate sales tax and total price from amount and rate. |
 | [Savings Goal Calculator](https://minitool.io/tools/savings-goal-calculator) | Find out when you will reach your savings goal. |
 | [Scientific Calculator](https://minitool.io/tools/scientific-calculator) | Scientific calculator: trig, logs, powers, factorial. |
 | [Scientific Notation Converter](https://minitool.io/tools/scientific-notation-converter) | Convert numbers between decimal, scientific and e-notation. |
+| [Screen Size Calculator](https://minitool.io/tools/screen-size-calculator) | Turn a screen diagonal into real width, height, and area. |
 | [Shoe Size Converter](https://minitool.io/tools/shoe-size-converter) | Convert shoe sizes between US, UK, EU and foot length. |
 | [Significant Figures Calculator](https://minitool.io/tools/significant-figures-calculator) | Count, round, and calculate with significant figures. |
 | [Simple Interest Calculator](https://minitool.io/tools/simple-interest-calculator) | Work out flat simple interest on a loan or deposit. |
@@ -622,14 +655,18 @@
 | [Timezone Converter](https://minitool.io/tools/timezone-converter) | Convert date and time between IANA timezones. |
 | [Tip Calculator](https://minitool.io/tools/tip-calculator) | Calculate tip amount and total bill per person quickly. |
 | [Tire Size Calculator](https://minitool.io/tools/tire-size-calculator) | Tire size dimensions and speedometer error calculator. |
+| [Triangle Solver](https://minitool.io/tools/triangle-solver) | Solve any triangle from SSS, SAS, ASA, AAS, or SSA input. |
 | [Umask Calculator](https://minitool.io/tools/umask-calculator) | Convert a umask to file and directory permissions (or back). |
 | [Unit Converter](https://minitool.io/tools/unit-converter) | Convert between length, weight, temperature, and more units. |
 | [Unit Price Calculator](https://minitool.io/tools/unit-price-calculator) | Compare prices per gram, liter or piece. |
 | [Uptime & SLA Calculator](https://minitool.io/tools/uptime-sla-calculator) | Turn SLA percentages into allowed downtime and back. |
+| [Vector Calculator](https://minitool.io/tools/vector-calculator) | Dot, cross, angle, sum, difference, and vector projection. |
 | [Video Bitrate Calculator](https://minitool.io/tools/video-bitrate-calculator) | Video bitrate that fits your target size and duration. |
 | [VO2 Max Calculator](https://minitool.io/tools/vo2-max-calculator) | Estimate VO2 max from run, walk or resting heart rate. |
 | [Voltage Divider Calculator](https://minitool.io/tools/voltage-divider-calculator) | Design voltage dividers: find Vout or solve for R2. |
 | [Voltage Drop Calculator](https://minitool.io/tools/voltage-drop-calculator) | Calculate wire voltage drop for AC circuits. |
+| [WACC Calculator](https://minitool.io/tools/wacc-calculator) | Compute WACC from equity, debt, and tax inputs. |
+| [Waist-to-Hip Ratio Calculator](https://minitool.io/tools/waist-to-hip-calculator) | Waist-to-hip ratio calculator with WHO health risk bands. |
 | [Water Intake Calculator](https://minitool.io/tools/water-intake-calculator) | Estimate daily water needs from weight and activity. |
 | [Wind Chill Calculator](https://minitool.io/tools/wind-chill-calculator) | Feels-like temperature from air temperature and wind speed. |
 | [Workday Calculator](https://minitool.io/tools/workday-calculator) | Add or count business days while skipping weekends. |
@@ -637,8 +674,4 @@
 
 ---
 
-**Why browser-only?** Your input never leaves your device. View source
-is the whole program — if you don't trust a tool, you can read exactly
-what it does with your data: nothing.
-
-*Auto-generated by the minitool daily pipeline. Last update: see commit date.*
+*Updated weekly.*
