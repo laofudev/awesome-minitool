@@ -1,8 +1,8 @@
 # Awesome Minitool
 
-[![tools](https://img.shields.io/badge/tools-643-blue)](https://minitool.io/) [![license](https://img.shields.io/badge/license-free-green)](https://minitool.io/) [![updated](https://img.shields.io/badge/updated-weekly-orange)](https://minitool.io/)
+[![tools](https://img.shields.io/badge/tools-648-blue)](https://minitool.io/) [![license](https://img.shields.io/badge/license-free-green)](https://minitool.io/) [![updated](https://img.shields.io/badge/updated-weekly-orange)](https://minitool.io/)
 
-> A curated catalog of **643 free online tools** — text utilities,
+> A curated catalog of **648 free online tools** — text utilities,
 > developer tools, and calculators. Tools run in your browser and your
 > input isn't uploaded. No signup required.
 
@@ -12,7 +12,7 @@
 
 - [Text & Writing Tools](#text--writing-tools) (195)
 - [Developer Tools](#developer-tools) (251)
-- [Calculators & Converters](#calculators--converters) (197)
+- [Calculators & Converters](#calculators--converters) (202)
 
 ## Text & Writing Tools
 
@@ -477,8 +477,10 @@
 | [555 Timer Calculator](https://minitool.io/tools/555-timer-calculator) | Compute 555 timer astable and monostable timing values. |
 | [A/B Test Calculator](https://minitool.io/tools/ab-test-calculator) | Check if a conversion-rate difference is significant. |
 | [Age Calculator](https://minitool.io/tools/age-calculator) | Calculate exact age in years, months and days. |
+| [APR Calculator](https://minitool.io/tools/apr-calculator) | Actuarial APR after fees or points on a fixed loan. |
 | [Annuity Calculator](https://minitool.io/tools/annuity-calculator) | Payment, loan value or future value for any annuity. |
 | [Aspect Ratio Calculator](https://minitool.io/tools/aspect-ratio-calculator) | Calculate dimensions and aspect ratios for images. |
+| [Auto Loan Calculator](https://minitool.io/tools/auto-loan-calculator) | Car payment with trade-in, tax, fees, and APR. |
 | [Average Calculator](https://minitool.io/tools/average-calculator) | Calculate mean, median, mode and more from a number list. |
 | [AWG to mm² Converter](https://minitool.io/tools/awg-to-mm2) | Convert American Wire Gauge to mm² with ampacity data. |
 | [BAC Calculator](https://minitool.io/tools/bac-calculator) | Estimate blood alcohol content with the Widmark formula. |
@@ -538,8 +540,10 @@
 | [eDPI Calculator](https://minitool.io/tools/edpi-calculator) | Calculate eDPI and cm per 360 for CS2, Valorant and more. |
 | [Electricity Cost Calculator](https://minitool.io/tools/electricity-cost-calculator) | Appliance running costs per day, month, and year. |
 | [Elo Rating Calculator](https://minitool.io/tools/elo-rating-calculator) | Compute Elo rating changes for matches and tournaments. |
+| [Emergency Fund Calculator](https://minitool.io/tools/emergency-fund-calculator) | Target from essential expenses times months of cover. |
 | [Engine Displacement Calculator](https://minitool.io/tools/engine-displacement-calculator) | Engine displacement from bore, stroke, and cylinder count. |
 | [EV Charging Calculator](https://minitool.io/tools/ev-charging-calculator) | Estimate EV charging time and cost for any session. |
+| [Extra Mortgage Payment Calculator](https://minitool.io/tools/extra-mortgage-payment-calculator) | Interest and months saved by extra or biweekly payments. |
 | [Fence Calculator](https://minitool.io/tools/fence-calculator) | Count fence posts, rails, pickets, and concrete for a run. |
 | [Fibonacci Calculator](https://minitool.io/tools/fibonacci-calculator) | Compute Fibonacci numbers exactly, including huge terms. |
 | [Filament Calculator](https://minitool.io/tools/filament-calculator) | Convert 3D-print filament between length, weight and cost. |
@@ -582,6 +586,7 @@
 | [Molecular Weight Calculator](https://minitool.io/tools/molecular-weight-calculator) | Calculate molar mass and element breakdown for any formula. |
 | [Moon Phase Calculator](https://minitool.io/tools/moon-phase-calculator) | Find the moon phase for any date — new, quarter, or full. |
 | [Mortgage Calculator](https://minitool.io/tools/mortgage-calculator) | Mortgage payment with taxes, insurance, PMI, amortization. |
+| [Net Worth Calculator](https://minitool.io/tools/net-worth-calculator) | Assets minus liabilities with editable line items. |
 | [Normal Distribution Calculator](https://minitool.io/tools/normal-distribution-calculator) | Normal CDF, tail, between and inverse percentile calculator. |
 | [Note Frequency Calculator](https://minitool.io/tools/note-frequency-calculator) | Convert musical notes, MIDI numbers and frequencies. |
 | [NPV & IRR Calculator](https://minitool.io/tools/npv-irr-calculator) | Net present value, IRR and payback for a project. |
