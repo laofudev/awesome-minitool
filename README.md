@@ -1,8 +1,8 @@
 # Awesome Minitool
 
-[![tools](https://img.shields.io/badge/tools-648-blue)](https://minitool.io/) [![license](https://img.shields.io/badge/license-free-green)](https://minitool.io/) [![updated](https://img.shields.io/badge/updated-weekly-orange)](https://minitool.io/)
+[![tools](https://img.shields.io/badge/tools-653-blue)](https://minitool.io/) [![license](https://img.shields.io/badge/license-free-green)](https://minitool.io/) [![updated](https://img.shields.io/badge/updated-weekly-orange)](https://minitool.io/)
 
-> A curated catalog of **648 free online tools** — text utilities,
+> A curated catalog of **653 free online tools** — text utilities,
 > developer tools, and calculators. Tools run in your browser and your
 > input isn't uploaded. No signup required.
 
@@ -12,7 +12,7 @@
 
 - [Text & Writing Tools](#text--writing-tools) (195)
 - [Developer Tools](#developer-tools) (251)
-- [Calculators & Converters](#calculators--converters) (202)
+- [Calculators & Converters](#calculators--converters) (207)
 
 ## Text & Writing Tools
 
@@ -87,7 +87,7 @@
 | [Lorem Ipsum Generator](https://minitool.io/tools/lorem-ipsum-generator) | Generate placeholder Lorem Ipsum text for mockups. |
 | [Markdown Link Builder](https://minitool.io/tools/markdown-link-builder) | Turn a URL and label into Markdown, HTML, or BBCode links. |
 | [Markdown Link Extractor](https://minitool.io/tools/markdown-link-extractor) | Pull every link and image URL out of a Markdown document. |
-| [Markdown Linter](https://minitool.io/tools/markdown-linter) | Lint markdown for broken links, missing alt text and style i |
+| [Markdown Linter](https://minitool.io/tools/markdown-linter) | Lint markdown for broken links, missing alt text and style i. |
 | [Markdown Preview](https://minitool.io/tools/markdown-preview) | Write Markdown and see live formatted output instantly. |
 | [Markdown Table to CSV](https://minitool.io/tools/markdown-table-to-csv) | Turn markdown tables into CSV with RFC 4180 quoting. |
 | [Markdown to BBCode Converter](https://minitool.io/tools/markdown-to-bbcode) | Convert Markdown into forum-ready BBCode tags. |
@@ -477,8 +477,8 @@
 | [555 Timer Calculator](https://minitool.io/tools/555-timer-calculator) | Compute 555 timer astable and monostable timing values. |
 | [A/B Test Calculator](https://minitool.io/tools/ab-test-calculator) | Check if a conversion-rate difference is significant. |
 | [Age Calculator](https://minitool.io/tools/age-calculator) | Calculate exact age in years, months and days. |
-| [APR Calculator](https://minitool.io/tools/apr-calculator) | Actuarial APR after fees or points on a fixed loan. |
 | [Annuity Calculator](https://minitool.io/tools/annuity-calculator) | Payment, loan value or future value for any annuity. |
+| [APR Calculator](https://minitool.io/tools/apr-calculator) | Actuarial APR after fees or points on a fixed loan. |
 | [Aspect Ratio Calculator](https://minitool.io/tools/aspect-ratio-calculator) | Calculate dimensions and aspect ratios for images. |
 | [Auto Loan Calculator](https://minitool.io/tools/auto-loan-calculator) | Car payment with trade-in, tax, fees, and APR. |
 | [Average Calculator](https://minitool.io/tools/average-calculator) | Calculate mean, median, mode and more from a number list. |
@@ -527,6 +527,7 @@
 | [Debt Payoff Calculator](https://minitool.io/tools/debt-payoff-calculator) | Plan debt payoff with avalanche or snowball strategies. |
 | [Debt Snowball Calculator](https://minitool.io/tools/debt-snowball-calculator) | Compare snowball vs avalanche debt payoff plans. |
 | [Decibel Calculator](https://minitool.io/tools/decibel-calculator) | Convert between ratios and decibels, and combine levels. |
+| [Depreciation Calculator](https://minitool.io/tools/depreciation-calculator) | Straight-line and declining-balance book depreciation. |
 | [Depth of Field Calculator](https://minitool.io/tools/depth-of-field-calculator) | Near and far focus limits for any lens and aperture. |
 | [Dew Point Calculator](https://minitool.io/tools/dew-point-calculator) | Calculate dew point from air temperature and humidity. |
 | [Dice Probability Calculator](https://minitool.io/tools/dice-probability-calculator) | Exact dice sum probabilities for any dice and condition. |
@@ -571,6 +572,7 @@
 | [Inflation Calculator](https://minitool.io/tools/inflation-calculator) | Adjust any amount for inflation between two years. |
 | [ISO Week Number](https://minitool.io/tools/iso-week-number) | Convert dates to ISO 8601 week numbers and back. |
 | [IV Drip Rate Calculator](https://minitool.io/tools/iv-drip-rate-calculator) | Calculate IV drip rates in gtt/min and infusion times. |
+| [Landed Cost Calculator](https://minitool.io/tools/landed-cost-calculator) | Per-unit landed cost from product, freight, duty, and fees. |
 | [LED Resistor Calculator](https://minitool.io/tools/led-resistor-calculator) | Size the right series resistor for any LED circuit. |
 | [Linear Regression Calculator](https://minitool.io/tools/linear-regression-calculator) | Fit a least-squares line and get slope, intercept, and r. |
 | [Loan Calculator](https://minitool.io/tools/loan-calculator) | Calculate monthly payments and total interest for any loan. |
@@ -623,6 +625,7 @@
 | [Rent vs Buy Calculator](https://minitool.io/tools/rent-vs-buy-calculator) | Compare the true cost of renting versus buying a home. |
 | [Resistor Color Code Calculator](https://minitool.io/tools/resistor-color-code-calculator) | Decode 4, 5, and 6 band resistor color codes. |
 | [Retirement Calculator](https://minitool.io/tools/retirement-calculator) | Project your nest egg, contributions, and retirement income. |
+| [ROAS Calculator](https://minitool.io/tools/roas-calculator) | ROAS ratio and percent from ad revenue and spend. |
 | [Rocket Delta-v Calculator](https://minitool.io/tools/rocket-delta-v-calculator) | Compute a rocket's delta-v from Isp, masses and gravity. |
 | [ROI Calculator](https://minitool.io/tools/roi-calculator) | Calculate ROI, net profit, and annualized return percentage. |
 | [Roman Numeral Converter](https://minitool.io/tools/roman-numeral-converter) | Convert numbers to Roman numerals and vice versa. |
@@ -665,6 +668,7 @@
 | [Unit Converter](https://minitool.io/tools/unit-converter) | Convert between length, weight, temperature, and more units. |
 | [Unit Price Calculator](https://minitool.io/tools/unit-price-calculator) | Compare prices per gram, liter or piece. |
 | [Uptime & SLA Calculator](https://minitool.io/tools/uptime-sla-calculator) | Turn SLA percentages into allowed downtime and back. |
+| [VAT Calculator](https://minitool.io/tools/vat-calculator) | Add VAT to a net price or remove it from a gross price. |
 | [Vector Calculator](https://minitool.io/tools/vector-calculator) | Dot, cross, angle, sum, difference, and vector projection. |
 | [Video Bitrate Calculator](https://minitool.io/tools/video-bitrate-calculator) | Video bitrate that fits your target size and duration. |
 | [VO2 Max Calculator](https://minitool.io/tools/vo2-max-calculator) | Estimate VO2 max from run, walk or resting heart rate. |
@@ -673,6 +677,7 @@
 | [WACC Calculator](https://minitool.io/tools/wacc-calculator) | Compute WACC from equity, debt, and tax inputs. |
 | [Waist-to-Hip Ratio Calculator](https://minitool.io/tools/waist-to-hip-calculator) | Waist-to-hip ratio calculator with WHO health risk bands. |
 | [Water Intake Calculator](https://minitool.io/tools/water-intake-calculator) | Estimate daily water needs from weight and activity. |
+| [Wholesale Price Calculator](https://minitool.io/tools/wholesale-price-calculator) | Cost to wholesale, then a suggested list price. |
 | [Wind Chill Calculator](https://minitool.io/tools/wind-chill-calculator) | Feels-like temperature from air temperature and wind speed. |
 | [Workday Calculator](https://minitool.io/tools/workday-calculator) | Add or count business days while skipping weekends. |
 | [Z-Score Calculator](https://minitool.io/tools/z-score-calculator) | Calculate z-scores, percentiles, and probabilities. |
